@@ -5,29 +5,20 @@ This project trains an image classifier on a dataset of playing card photos, lea
 
 ### Libraries needed
 torch
-
 torchvision
-
 numpy
-
 matplotlib
-
 jupyter
 
 ### Running the notebook
 git clone https://github.com/your-username/Playing-Card-Classification.git
-
 cd Playing-Card-Classification
-
 jupyter notebook
 
 ### Structure
 Playing-Card-Classification/
-
 ├── playing_card_classification.ipynb   # Main notebook
-
 ├── data/                               # Card image dataset
-
 └── README.md
 
 ### Dataset
